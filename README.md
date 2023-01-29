@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/khairnarsneha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khairnarsneha24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sneha-khairnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-khairnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sneha-khairnar-a15b36169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-khairnar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khairnarsneha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khairnarsneha24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khairnarsneha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khairnarsneha24" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/khairnarh0l1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khairnarh0l1" height="30" width="40" /></a>
