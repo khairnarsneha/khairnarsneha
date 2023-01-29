@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/khairnarsneha24" target="blank"><img src="https://img.shields.io/twitter/follow/khairnarsneha24?logo=twitter&style=for-the-badge" alt="khairnarsneha24" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **Javascript, React etc.**
 
 - 💬 Ask me about **MEARN**
 
