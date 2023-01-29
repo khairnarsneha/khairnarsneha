@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript, React etc.**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **khairnarsneha24@gmail.com**
 
