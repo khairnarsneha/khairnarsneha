@@ -1,20 +1,16 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftdwi.org%2Farticles%2F2017%2F06%2F02%2Fcandidate-profile-for-a-great-data-scientist.aspx&psig=AOvVaw3xr8OSx2gGSbE9rQEj5FzS&ust=1687629376678000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjas7z72f8CFQAAAAAdAAAAABAE)](https://snehakhairnar.io)
+[![MasterHead](https://tdwi.org/articles/2017/06/02/-/media/TDWI/TDWI/BITW/analytics4.jpg)](https://snehakhairnar.io)
 
 <h1 align="center">Hi 👋, I'm Sneha Khairnar</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h3 align="center">A Passionate Data Analysts </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khairnarsneha&label=Profile%20views&color=0e75b6&style=flat" alt="khairnarsneha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khairnarsneha24" target="blank"><img src="https://img.shields.io/twitter/follow/khairnarsneha24?logo=twitter&style=for-the-badge" alt="khairnarsneha24" /></a> </p>
 
-- 🔭 I’m currently working on **to improve my coding skills.**
-
-- 🌱 I’m currently learning **coding skills.**
-
 - 👯 I’m looking to collaborate on **projects.**
 
-- 💬 Ask me about **JAVA/HTML/CSS/JAVASCRIPT/Bootstrap/React.**
+- 💬 Ask me about **Microsoft Excel/Microsoft Power Bi/SQL/Python/Numpy/Pandas/JAVA/HTML/CSS/JAVASCRIPT/Bootstrap/React.**
 
 - 📫 How to reach me **khairnarsneha24@gmail.com**
 
