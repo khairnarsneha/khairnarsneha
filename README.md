@@ -1,4 +1,4 @@
-[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://snehakhairnar.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftdwi.org%2Farticles%2F2017%2F06%2F02%2Fcandidate-profile-for-a-great-data-scientist.aspx&psig=AOvVaw3xr8OSx2gGSbE9rQEj5FzS&ust=1687629376678000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjas7z72f8CFQAAAAAdAAAAABAE)](https://snehakhairnar.io)
 
 <h1 align="center">Hi 👋, I'm Sneha Khairnar</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
